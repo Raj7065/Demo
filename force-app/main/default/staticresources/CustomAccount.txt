@@ -1,0 +1,1 @@
+{"mobiles": ["redmi", "realme", "bottle"]}
